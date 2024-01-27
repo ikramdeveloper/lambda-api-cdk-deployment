@@ -1,6 +1,8 @@
 # Lambda and API Gateway Deployment with AWS CDK
 
-A boilerplate for the deployment of lambda with api gateway on AWS with CDK and TypeScript
+A boilerplate for the deployment of lambda with api gateway on AWS with CDK and TypeScript.
+
+You can read the complete article [on medium](https://medium.com/@ikramdeveloper/aws-lambda-and-api-gateway-deployment-with-cdk-and-typescript-b71ecdc7ddd2)
 
 ## Setup:
 
